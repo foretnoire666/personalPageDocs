@@ -1,0 +1,21 @@
+{
+    "[markdown]": {
+        "editor.unicodeHighlight.ambiguousCharacters": true,
+        "editor.unicodeHighlight.invisibleCharacters": true,
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        },
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "modificationsIfAvailable",
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
+        "files.eol": "\n"
+    },
+    "todohighlight.include": ["**/*.md"],
+    "todohighlight.keywords": [
+        { "text": "NOTE", "color": "#FFFFFF", "backgroundColor": "#4c6cb3" }
+    ]
+}

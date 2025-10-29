@@ -1,0 +1,12 @@
+{
+    "ul-indent": {
+        "indent": 4
+    },
+    "no-multiple-blanks": {
+        "maximum": 2
+    },
+    "line-length": {
+        "code_block_line_length": 250
+    },
+    "no-bare-urls": false
+}
